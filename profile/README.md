@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-<!--
+pathum2583@gmail.com 
+😇
 **pathum25/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
